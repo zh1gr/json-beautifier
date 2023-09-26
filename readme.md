@@ -59,3 +59,5 @@ Beautify or minimize JSON.
 </td>
 </tr>
 </table>
+
+###### from manuals of youtu.be/s38oGpnnQo8
