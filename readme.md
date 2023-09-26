@@ -60,4 +60,4 @@ Beautify or minimize JSON.
 </tr>
 </table>
 
-###### from manuals of youtu.be/s38oGpnnQo8
+from manuals of youtu.be/s38oGpnnQo8
