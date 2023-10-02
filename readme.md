@@ -1,5 +1,7 @@
 # json-beautifier
 
+You can try [here](https://zh1gr.github.io/json-beautifier/)
+
 Beautify or minimize JSON.
 
 <table>
